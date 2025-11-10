@@ -1,0 +1,17 @@
+{
+  "games": {
+    "pung.io": {
+      "name": "Pung.io",
+      "type": "Battle Royale Fighting Game",
+      "description": "Multiplayer punch fighting game",
+      "links": {
+        "website": "",
+        "discord": ""
+      },
+      "updates": []
+    }
+  },
+  "events": [],
+  "customCommands": {},
+  "autoResponses": []
+}

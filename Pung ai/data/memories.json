@@ -1,0 +1,64 @@
+{
+  "userMemories": {
+    "827213162575167548": [
+      "name is Mani",
+      "is testing your memory"
+    ],
+    "1286467438954811404": [
+      "is a full blood"
+    ],
+    "1096397645129449473": []
+  },
+  "serverMemories": {
+    "895398443462299658": []
+  },
+  "communityData": {
+    "games": [],
+    "events": [],
+    "announcements": []
+  },
+  "userNames": {
+    "895398443462299658": {
+      "dgdf": [
+        "827213162575167548"
+      ],
+      "♡ 𝕄𝕒𝕟𝕚 ♡": [
+        "827213162575167548"
+      ],
+      "pung ai": [
+        "1436829986995572839"
+      ],
+      "slim049390": [
+        "1286467438954811404"
+      ],
+      "slim": [
+        "1286467438954811404"
+      ],
+      "hocine316": [
+        "1096397645129449473"
+      ],
+      "hocine": [
+        "1096397645129449473"
+      ]
+    }
+  },
+  "pungKnowledge": {
+    "skins": {},
+    "abilities": {},
+    "stats": {},
+    "tips": [],
+    "general": {
+      "bee boss": {
+        "description": "mini boss",
+        "info": "rewards you for 5000 gold when you kill it and it respawns prety quick",
+        "addedBy": "dgdf",
+        "timestamp": "2025-11-10T05:10:23.956Z"
+      },
+      "boss z": {
+        "description": "a boss called boss z",
+        "addedBy": "dgdf",
+        "timestamp": "2025-11-10T05:27:54.924Z"
+      }
+    }
+  }
+}
