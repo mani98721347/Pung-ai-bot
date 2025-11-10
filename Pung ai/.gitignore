@@ -1,0 +1,43 @@
+# Environment variables and sensitive data
+config.env
+.env
+.env.*
+.env.local
+.env.*.local
+*.env
+
+# Secrets and credentials
+secrets.json
+credentials.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.cert
+.npmrc
+.yarnrc
+
+# Dependencies
+node_modules/
+
+# Data files (optional - remove if you want to track them)
+data/*.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+dist/
+build/
